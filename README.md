@@ -17,6 +17,9 @@ Mapping the earthquakes was accomplished using the Leaflet.js Application Progra
 
 ## Results
 
+The images below depict the geographical map with overlays, controls, and a key/legend. 
+
+
 
 
 
