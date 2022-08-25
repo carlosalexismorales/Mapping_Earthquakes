@@ -55,6 +55,11 @@ Mapping the earthquakes was accomplished using the Leaflet.js Application Progra
 
 
 
+<img width="1197" alt="Screen Shot 2022-08-24 at 9 21 17 PM" src="https://user-images.githubusercontent.com/102444078/186574207-55f94cc9-988f-4331-9e81-572b6abf2401.png">
+
+
+
+
 
 <img width="1197" alt="Screen Shot 2022-08-24 at 9 19 03 PM" src="https://user-images.githubusercontent.com/102444078/186573967-afc40c86-d958-4bb3-bd85-aafd27000014.png">
 
